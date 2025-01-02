@@ -6,7 +6,7 @@ const Sidebar = () => {
   return (
     <div className="h-screen w-64 bg-gradient-to-r from-purple-600 to-blue-400 text-white fixed">
       <div className="p-4 text-center">
-        <h1 className="text-2xl font-bold mb-4">Akhila's Calendar App</h1>
+        <h1 className="text-2xl font-bold mb-4">Rohith's Calendar App</h1>
         <nav>
           <ul className="space-y-4">
             <li>
